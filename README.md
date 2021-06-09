@@ -1,7 +1,7 @@
 
 # JavaLab0
 
-In this Project, I have completed the codes of all programs asked in the JavaLab0.
+In this Project, I have completed the codes of all programs asked in the JavaLab0. Feel free to use it.
 
 
 ## Question 1
