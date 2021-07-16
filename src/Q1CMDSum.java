@@ -5,6 +5,6 @@ public class Q1CMDSum {
         for (String x : args) {
             sum = sum + Integer.parseInt(x);
         }
-        System.out.println("The sum is "+ sum);
+        System.out.println("The Sum is "+ sum);
     }
 }
